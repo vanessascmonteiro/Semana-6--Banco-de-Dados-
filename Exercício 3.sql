@@ -1,0 +1,3 @@
+ALTER TABLE Vanessa ADD UF Char(2) NULL
+ALTER TABLE Vanessa ADD Telefone NUMERIC NOT NULL
+
